@@ -1,0 +1,7 @@
+#giphy-search-results {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+
+  border: 0.1em blue dashed;
+}
